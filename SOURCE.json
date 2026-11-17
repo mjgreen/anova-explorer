@@ -1,0 +1,124 @@
+{
+  "project": "ANOVA explorer",
+  "source_revision": "4daadc45746a3cab3c6a7d6fc6d4296799ef887b",
+  "source_worktree_clean": true,
+  "source_files": [
+    {
+      "path": "app.R",
+      "source": "apps/shinyanova/app.R",
+      "bytes": 9310,
+      "sha256": "dd7c7aed5a8050ce184d79993dac5f3e6d17563deb04d8938e87e68fb1ce12bb"
+    },
+    {
+      "path": "DESCRIPTION",
+      "source": "apps/shinyanova/DESCRIPTION",
+      "bytes": 364,
+      "sha256": "3ac3160a2efdc82cb7174e92a345887b06f58740fd8402d8bcf7d4479faf8608"
+    },
+    {
+      "path": "renv.lock",
+      "source": "apps/shinyanova/renv.lock",
+      "bytes": 255740,
+      "sha256": "cd495204f5fb0063c8900d8dbd0449d2cb19553c0d5180c9b5b9fb7dc9f6ba3f"
+    },
+    {
+      "path": "R/statistics.R",
+      "source": "apps/shinyanova/R/statistics.R",
+      "bytes": 2369,
+      "sha256": "57de4dddc03d42b244bdfd550e331683e9861ffbd81a8a47de4549b67cb52136"
+    },
+    {
+      "path": "www/explorer.css",
+      "source": "apps/shinyanova/www/explorer.css",
+      "bytes": 5472,
+      "sha256": "b152063d1694929f147133324206e8d49e957a46994b3a8ec5efb80ccc04513b"
+    },
+    {
+      "path": "tests/renv.lock",
+      "source": "apps/shinyanova/tests/renv.lock",
+      "bytes": 22000,
+      "sha256": "91efa1a588066d870a3ac8084eccdd6d78498a33f8287ad8d2238f993609b3a5"
+    },
+    {
+      "path": "tests/smoke_startup.R",
+      "source": "apps/shinyanova/tests/smoke_startup.R",
+      "bytes": 356,
+      "sha256": "bad3b590a1fed35876ce6d5bc908ed8abbad38a5e272f9a35c106c3c792e7b1b"
+    },
+    {
+      "path": "tests/smoke_statistics.R",
+      "source": "apps/shinyanova/tests/smoke_statistics.R",
+      "bytes": 823,
+      "sha256": "e246159d00899e44a865180dcfd412d0dcb7c116b017c3759701c774069ebc9f"
+    },
+    {
+      "path": "tests/smoke_stable_samples.R",
+      "source": "apps/shinyanova/tests/smoke_stable_samples.R",
+      "bytes": 1769,
+      "sha256": "fa5b801c5cfc277d64336e036556497155769fb8be6fc775634b6a8f39b09524"
+    },
+    {
+      "path": "tests/smoke_server.R",
+      "source": "apps/shinyanova/tests/smoke_server.R",
+      "bytes": 1355,
+      "sha256": "a3a35201049cd8be1a49f9a2679213c6eb08c292460ae6171dc537704f059623"
+    },
+    {
+      "path": "README.md",
+      "source": "scripts/anova-distribution/README.md",
+      "bytes": 4515,
+      "sha256": "b04fb91314bcb0efbb8171e1eb5b48a07b816d9ce667cf43af5b8eba836211a3"
+    },
+    {
+      "path": "LICENSE",
+      "source": "scripts/anova-distribution/LICENSE",
+      "bytes": 1067,
+      "sha256": "90fd77dd8f23f56a05082b9232cefcbcb94c26d31e7f35ae6bf36bf9490db9b5"
+    },
+    {
+      "path": "Dockerfile",
+      "source": "scripts/anova-distribution/Dockerfile",
+      "bytes": 516,
+      "sha256": "a9e365fa4efe7ee1b0a5797814fe62d4059fc6f4dfb0aebce0562a022254aab8"
+    },
+    {
+      "path": "run.R",
+      "source": "scripts/anova-distribution/run.R",
+      "bytes": 691,
+      "sha256": "2238a99f3d8e6adad9fdc0446664bed6ea7cf3d7f5b65a02c7f513f70d68016f"
+    },
+    {
+      "path": "scripts/install.R",
+      "source": "scripts/anova-distribution/install.R",
+      "bytes": 1434,
+      "sha256": "52bf4e709ce31d70af2a4d251ae7c9d0548e83f0cc6e5f531eabab9ab116dc48"
+    },
+    {
+      "path": "scripts/library.R",
+      "source": "scripts/anova-distribution/library.R",
+      "bytes": 668,
+      "sha256": "c43d03ba8379684c41a37382252dda7140f824dcb98f225f952c4ab9809a0b72"
+    },
+    {
+      "path": "scripts/test.R",
+      "source": "scripts/anova-distribution/test.R",
+      "bytes": 953,
+      "sha256": "4c5edfa93c8c7f50f00d9a4e83781fd02083bf2e8b7eb29ff23a1f5cd342503c"
+    },
+    {
+      "path": ".gitignore",
+      "source": "generated isolation rules",
+      "bytes": 83,
+      "sha256": "296a4aa020f45157c92811aad43b767400f542d84b86d71813a96eea27aab3bc"
+    },
+    {
+      "path": ".dockerignore",
+      "source": "generated isolation rules",
+      "bytes": 83,
+      "sha256": "296a4aa020f45157c92811aad43b767400f542d84b86d71813a96eea27aab3bc"
+    }
+  ],
+  "data": "Synthetic observations generated in app; no participant records",
+  "licence_basis": "apps/shinyanova/DESCRIPTION already declares MIT and Matt Green authorship",
+  "private_history_exported": false
+}

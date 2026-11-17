@@ -1,0 +1,18 @@
+Package: shinyanova
+Type: Shiny
+Title: Stats Helpdesk ANOVA Calculator
+Version: 0.1.0
+Authors@R: person("Matt", "Green", role = c("aut", "cre"))
+Description: Interactive one-way ANOVA teaching calculator for Stats Helpdesk.
+License: MIT
+Encoding: UTF-8
+Imports:
+    car,
+    dplyr,
+    forcats,
+    ggplot2,
+    knitr,
+    report,
+    shiny,
+    tibble,
+    tidyr

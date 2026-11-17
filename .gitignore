@@ -1,0 +1,10 @@
+.git/
+.library/
+.renv/
+renv/
+.Rprofile
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.log
